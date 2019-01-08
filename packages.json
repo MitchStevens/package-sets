@@ -785,6 +785,17 @@
     "repo": "https://github.com/citizennet/purescript-halogen-select.git",
     "version": "v4.0.0"
   },
+  "halogen-svg": {
+    "dependencies": [
+      "prelude",
+      "halogen",
+      "strings", 
+      "web-uievents", 
+      "effect"
+    ],
+    "repo": "https://github.com/MitchStevens/purescript-halogen-svg.git",
+    "version": "v4.0.0"
+  },
   "halogen-vdom": {
     "dependencies": [
       "bifunctors",
